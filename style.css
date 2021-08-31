@@ -1,0 +1,16 @@
+#firstheader{
+    background:#5a8ce9;
+    background-image: url(./img/pattern.png);
+    background-repeat: space;
+    background-size: contain;
+    ;
+    
+}
+
+#logo{
+    background-size: 20%;
+    background-color:rgba(red, green, blue, alpha);
+    background-repeat:repeat;
+    width: 200px;
+    height: 100px;
+}

@@ -1,21 +1,23 @@
-#firstheader{
-    background:#5a8ce9;
+header{
+    background: #5a8ce9;
     background-image: url(./img/pattern.png);
-    background-repeat: space;
-    background-size: contain;
-    ;
-    
+    margin-left: -8px;
+    background-size: 33%; 
 }
 
-#logo{
+.logo{
     background-size: 20%;
-    background-color:rgba(red, green, blue, alpha);
     background-repeat:repeat;
     width: 200px;
     height: 100px;
 }
 
-main{
-    background-color: ivory;
+.Tim{ 
+    max-width: 100%;
+    height: auto;
+}
 
+
+#boolean{
+    color: lightseagreen;
 }
